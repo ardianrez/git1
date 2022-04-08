@@ -1,0 +1,2 @@
+class testbranch:
+    pass
